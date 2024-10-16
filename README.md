@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <!--
 **patelpayal2406/patelpayal2406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
